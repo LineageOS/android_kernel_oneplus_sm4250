@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "2d278dd9_27f984e7",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 18745
+      },
+      "writtenOn": "2023-09-27T16:44:29Z",
+      "side": 1,
+      "message": "note to self: find actual cause of what is breaking the camera instead of doing this",
+      "revId": "ee67f6208c49d0f8cfa5e154822944f53056012e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
